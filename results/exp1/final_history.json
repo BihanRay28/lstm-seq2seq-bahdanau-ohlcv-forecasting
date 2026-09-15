@@ -1,0 +1,9 @@
+[
+  {
+    "epoch": 1,
+    "teacher_forcing_probability": 1.0,
+    "train_loss": 0.20432028095654356,
+    "train_trend_accuracy": 0.17100518010388438,
+    "train_value_accuracy": 0.9219210902184373
+  }
+]

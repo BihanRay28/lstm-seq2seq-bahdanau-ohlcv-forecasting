@@ -1,0 +1,112 @@
+[
+  {
+    "epoch": 1,
+    "teacher_forcing_probability": 1.0,
+    "train_loss": 0.20216931664605406,
+    "validation_loss": 0.2770562551724605,
+    "train_trend_accuracy": 0.16129839933643936,
+    "validation_trend_accuracy": 0.10982905982905983,
+    "train_value_accuracy": 0.9229389623077993,
+    "validation_value_accuracy": 0.890966475326017
+  },
+  {
+    "epoch": 2,
+    "teacher_forcing_probability": 0.9898734177215189,
+    "train_loss": 0.19587064179410776,
+    "validation_loss": 0.2783165814020695,
+    "train_trend_accuracy": 0.25227326874205847,
+    "validation_trend_accuracy": 0.21623931623931625,
+    "train_value_accuracy": 0.9259914743403014,
+    "validation_value_accuracy": 0.8944343697906008
+  },
+  {
+    "epoch": 3,
+    "teacher_forcing_probability": 0.979746835443038,
+    "train_loss": 0.1894975275318787,
+    "validation_loss": 0.28289138605961434,
+    "train_trend_accuracy": 0.31638363864181845,
+    "validation_trend_accuracy": 0.2876068376068376,
+    "train_value_accuracy": 0.9269886301838781,
+    "validation_value_accuracy": 0.8960142675000143
+  },
+  {
+    "epoch": 4,
+    "teacher_forcing_probability": 0.9696202531645569,
+    "train_loss": 0.177605306500098,
+    "validation_loss": 0.2794995077909567,
+    "train_trend_accuracy": 0.3651943915007765,
+    "validation_trend_accuracy": 0.2797008547008547,
+    "train_value_accuracy": 0.9281507632437196,
+    "validation_value_accuracy": 0.8974676833799063
+  },
+  {
+    "epoch": 5,
+    "teacher_forcing_probability": 0.959493670886076,
+    "train_loss": 0.1636345793841401,
+    "validation_loss": 0.2822321979663311,
+    "train_trend_accuracy": 0.4259693103204857,
+    "validation_trend_accuracy": 0.30512820512820515,
+    "train_value_accuracy": 0.9297131322995668,
+    "validation_value_accuracy": 0.8922650281455476
+  },
+  {
+    "epoch": 6,
+    "teacher_forcing_probability": 0.9493670886075949,
+    "train_loss": 0.15066182994579977,
+    "validation_loss": 0.2893441917804571,
+    "train_trend_accuracy": 0.47326565367782014,
+    "validation_trend_accuracy": 0.37115384615384617,
+    "train_value_accuracy": 0.9313710517890839,
+    "validation_value_accuracy": 0.8986155921578085
+  },
+  {
+    "epoch": 7,
+    "teacher_forcing_probability": 0.9392405063291139,
+    "train_loss": 0.13945067534124583,
+    "validation_loss": 0.2858050803343455,
+    "train_trend_accuracy": 0.510390194832698,
+    "validation_trend_accuracy": 0.3594017094017094,
+    "train_value_accuracy": 0.933210629781717,
+    "validation_value_accuracy": 0.8945949722754191
+  },
+  {
+    "epoch": 8,
+    "teacher_forcing_probability": 0.9291139240506329,
+    "train_loss": 0.1302202397776781,
+    "validation_loss": 0.2885176526430326,
+    "train_trend_accuracy": 0.5385970369193844,
+    "validation_trend_accuracy": 0.3799145299145299,
+    "train_value_accuracy": 0.9348974251892507,
+    "validation_value_accuracy": 0.8888978345750409
+  },
+  {
+    "epoch": 9,
+    "teacher_forcing_probability": 0.9189873417721519,
+    "train_loss": 0.12275128913210995,
+    "validation_loss": 0.2887632513657594,
+    "train_trend_accuracy": 0.5602818809120429,
+    "validation_trend_accuracy": 0.3801282051282051,
+    "train_value_accuracy": 0.9362586725371196,
+    "validation_value_accuracy": 0.8944321518346191
+  },
+  {
+    "epoch": 10,
+    "teacher_forcing_probability": 0.9088607594936708,
+    "train_loss": 0.11619346089935666,
+    "validation_loss": 0.2898258502666767,
+    "train_trend_accuracy": 0.5771245852746012,
+    "validation_trend_accuracy": 0.37435897435897436,
+    "train_value_accuracy": 0.9375823054951764,
+    "validation_value_accuracy": 0.8930346847312138
+  },
+  {
+    "epoch": 11,
+    "teacher_forcing_probability": 0.8987341772151899,
+    "train_loss": 0.11104109543756326,
+    "validation_loss": 0.29191916095904813,
+    "train_trend_accuracy": 0.5905910278130736,
+    "validation_trend_accuracy": 0.3688034188034188,
+    "train_value_accuracy": 0.9386841027039727,
+    "validation_value_accuracy": 0.8928032362829742
+  }
+]
